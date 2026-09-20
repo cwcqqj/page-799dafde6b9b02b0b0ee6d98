@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b1cc20192dacd9a3b9137081",
+  "owner": "cwcqqj",
+  "repo": "page-799dafde6b9b02b0b0ee6d98",
+  "title": "西数(WestData)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "799dafde6b9b02b0b0ee6d98",
+      "a": "西数(WestData)",
+      "b": "2027官方最新地址导航",
+      "entity": "西数(WestData)",
+      "brand": "西数(WestData)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "62b0b3410a0b5cc3817cbc18e34839080ad2be42b4762de4f4ec334a00bbf132",
+      "content": {
+        "primary_entity": "西数(WestData)",
+        "keyword1": "西数(WestData)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，Windows、macOS、Android、iOS 与路由器均有适配方案。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好适配客户端并导入订阅，即可开始使用西数(WestData)。",
+          "AI_CLOSING_TITLE": "立即配置西数(WestData)",
+          "AI_DESCRIPTION": "，西数(WestData)提供基础版、旗舰版与团队版三档订阅，分别适配单人轻度使用、多设备流媒体与游戏加速、以及团队高带宽定制路由场景。用户可先确认设备数量与月流量需求，再按客户端文档完成订阅导入，按年付可享更优价格。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备适配到订阅周期，三个角度了解西数(WestData)。",
+          "AI_FEATURES_TITLE": "选择西数(WestData)的要点",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付分别仅需 ¥150、¥350、¥850。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，按同时在线数量挑选。",
+          "AI_FEATURE_TEXT_3": "月流量从 100GB 到 1000GB 不等，旗舰版含 IPLC 专线游戏加速，团队版含定制路由。",
+          "AI_FEATURE_TITLE_1": "套餐档位清晰",
+          "AI_FEATURE_TITLE_2": "设备数量可选",
+          "AI_FEATURE_TITLE_3": "流量与线路分级",
+          "AI_GUIDE_INTRO": "三步完成西数(WestData)的订阅配置与客户端使用。",
+          "AI_GUIDE_TITLE": "西数(WestData)使用三步",
+          "AI_HERO_INTRO": "西数(WestData)面向需要海外网络加速的用户，提供多档订阅与多平台客户端支持。先确认设备数量与流量需求，再选择基础版、旗舰版或团队版，最后按对应客户端文档导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档订阅适配多设备加速",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月，IPLC 专线与流媒体解锁",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月，1000GB 流量",
+          "AI_PLANS_INTRO": "基础版适合单人轻度使用；旗舰版适合多设备流媒体与游戏加速；团队版适合企业高带宽与定制路由需求。",
+          "AI_PLANS_TITLE": "对比三档套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量，在基础版、旗舰版、团队版之间选定一档订阅。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备限制与线路说明，确认与当前设备系统匹配。",
+          "AI_STEP_TEXT_3": "在对应客户端中依照文档导入订阅，完成节点配置后开始使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅导入",
+          "AI_VISUAL_TITLE": "西数(WestData) 多设备加速",
+          "AI_FAQ_ANSWER_1": "基础版适合手机或平板轻量使用，每月 100GB、3 台设备。若同时用电脑、电视并需要游戏加速，旗舰版的 300GB、5 台设备与 IPLC 专线更合适。",
+          "AI_FAQ_ANSWER_2": "可以。同一账号在设备数量上限内登录，基础版 3 台、旗舰版 5 台、团队版 20 台。超出数量时，较早登录的设备可能被挤下线，按需升级或退出闲置设备即可。",
+          "AI_FAQ_ANSWER_3": "年付比月付更划算：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相当于每月更低。若只打算短期使用，先按月付试用，确认线路和速度满意后再转年付。",
+          "AI_FAQ_ANSWER_4": "手机推荐 Shadowrocket 或 Clash for Android，电脑推荐 Clash Verge 或 ClashX，路由器可刷 OpenWrt 并搭配 Clash.Meta 内核。导入订阅链接后更新节点即可使用，具体步骤参照各客户端文档。",
+          "AI_FAQ_ANSWER_5": "选择距自己较近或延迟低的节点，游戏与实时通话优先选 IPLC 专线；有流媒体需求时切换至对应解锁节点，刷新订阅后节点列表会自动更新。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版怎么选？",
+          "AI_FAQ_QUESTION_2": "一个账号可以几台设备同时用？",
+          "AI_FAQ_QUESTION_3": "月付和年付哪个更划算？",
+          "AI_FAQ_QUESTION_4": "手机和电脑分别用什么客户端？",
+          "AI_FAQ_QUESTION_5": "如何切换节点或线路？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qfknj.cn",
+    "host": "qfknj.cn"
+  },
+  "file_hashes": {
+    "index.html": "285da2a25a53484059bc098d78c3956f5428469283bee02caaa1e066378e5dfb",
+    "sitemap.xml": "a81975d6d5c4b4e653fde24974c4a34bd1be2069f9bf221d362a935b051feaf4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "efc5d09c18d0df210d85e01367cf5383812fcdc9a2ee031723827b86ac845bef",
+    "robots.txt": "b35e5a5565a39ed2083e0a69544e2a3fa52a2195fb38204584a5cc1bd75caa91",
+    "d475713f3b89f75494c49f449177e4e0.txt": "80658b3086bebeacedec3e3e7781ca564d294216756ce8125ca08d97fea2d87d"
+  },
+  "revision": "799519cc466f6fa92f9594627afca0b40683f6885ad76bd20b7a73a1300935ec"
+}
